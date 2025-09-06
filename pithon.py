@@ -3,3 +3,6 @@ suma_dos = 5
 
 suma = suma_uno + suma_dos
 print(suma)
+
+resta = suma_uno - suma_dos
+print(resta)
