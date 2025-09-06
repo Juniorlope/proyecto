@@ -6,3 +6,6 @@ print(suma)
 
 resta = suma_uno - suma_dos
 print(resta)
+
+multiplicar = suma_uno * suma_dos
+print(multiplicar)
