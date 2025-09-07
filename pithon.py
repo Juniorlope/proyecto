@@ -1,11 +1,14 @@
-suma_uno = 10
-suma_dos = 5
+numero_uno = 10
+numero_dos = 5
 
-suma = suma_uno + suma_dos
+suma = numero_uno + numero_dos
 print(suma)
 
-resta = suma_uno - suma_dos
+resta = numero_uno - numero_dos
 print(resta)
 
-multiplicar = suma_uno * suma_dos
+multiplicar = numero_uno * numero_dos
 print(multiplicar)
+
+dividir = numero_uno / numero_dos
+print(dividir)
